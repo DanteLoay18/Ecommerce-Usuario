@@ -9,11 +9,15 @@
 /coverage
 
 # next.js
-
+/.next/
 /out/
 
 # production
+<<<<<<< HEAD
 ./next
+=======
+/build
+>>>>>>> parent of ca29951 (agregado produccion)
 
 # misc
 .idea
